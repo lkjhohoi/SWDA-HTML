@@ -1,0 +1,28 @@
+/*
+selector {
+    property: value;
+    ...
+    property: value;
+}
+*/
+
+body {
+    background-color: blue;
+    color: red;
+    font-size: 32px;
+    font-family: monospace
+}
+.yellow {
+    color: yellow
+}
+.black {
+    color: black;
+}
+#paragraph {
+    color: green
+}
+.iminja {
+    border-bottom: 60px;
+    list-style: none;
+    width: 60px;
+}
