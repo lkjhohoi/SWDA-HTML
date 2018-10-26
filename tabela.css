@@ -1,0 +1,22 @@
+/*
+selector {
+    property: value;
+    ...
+    property: value;
+}
+*/
+
+.table {
+    height: 500px;
+    width: 500px;
+}
+
+.grey {
+    background-color: grey;
+}
+.bold {
+    font-weight: bold
+}
+.italic {
+    font-style: italic
+}
