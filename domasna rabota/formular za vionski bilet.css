@@ -10,28 +10,28 @@ body {
     background-image: url("https://i.imgur.com/yHlTiqJ.jpg")
 }
 .table {
-    margin-left: 40%;
+    margin-left: 35%;
 }
 .table2{
-    margin-left: 40%;
+    margin-left: 35%;
     width: 19.5%
 }
 .date {
-    margin-left:40%;
+    margin-left:35%;
     width: 25%
 }
 .tickets{
-    margin-left: 40%;
+    margin-left: 35%;
     width: 30%
 }
 .h1{
-    margin-left: 38%;
+    margin-left: 32%;
     font-family: fantasy;
     font-size: 30pt;
     color: lightblue
 }
 .submit {
-    margin-left: 57%;
+    margin-left: 53%;
     width: 9%;
     font-size: 16pt;
     background-color: lightblue;
