@@ -1,0 +1,46 @@
+/*
+selector {
+    property: value;
+    ...
+    property: value;
+}
+*/
+
+body {
+    background-image: url("https://i.imgur.com/yHlTiqJ.jpg")
+}
+.table {
+    margin-left: 40%;
+}
+.table2{
+    margin-left: 40%;
+    width: 19.5%
+}
+.date {
+    margin-left:40%;
+    width: 25%
+}
+.tickets{
+    margin-left: 40%;
+    width: 30%
+}
+.h1{
+    margin-left: 38%;
+    font-family: fantasy;
+    font-size: 30pt;
+    color: lightblue
+}
+.submit {
+    margin-left: 57%;
+    width: 9%;
+    font-size: 16pt;
+    background-color: lightblue;
+    text-align: center;
+    font-family: fantasy;
+    color: black
+}
+    .img {
+    top: %
+    width: 500px;
+    height: 234px;
+    background: url(https://pics.clipartpng.com5454 /midle/Airplane_PNG_Clipart-421.png) no-repeat;}

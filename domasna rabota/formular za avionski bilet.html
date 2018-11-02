@@ -2,11 +2,12 @@
 <html>
     <head>  
         <title>Avionski bilet</title> 
-                                        </head>
-    <body>
-      <h1>Flight Ticket Booking</h1>
-      <hr/>
-      <table border="1">
+        <link rel="stylesheet" href="formular za vionski bilet.css" >
+     </head>
+    <body class="body">
+      <h1 class="h1">Flight Ticket Booking</h1>
+  
+      <table border="1" class="table">
           <tr>
               <td>First Name</td>
               <td><input type="Name "></td>
@@ -18,8 +19,8 @@
           <td>E-Mail</td>
           <td><input type="email" name="emailaddress"</td>
       </table> 
-      <hr/>
-      <table border="1">
+    
+      <table border="1" class="table2">
           <tr>
               <td>From</td>
               <td><input name="From"</td>
@@ -28,9 +29,8 @@
               <td>To</td>
               <td><input name="To"</td>
           </tr>
-            </table>
-            <hr/>
-            <fieldset class="date"> 
+            </table>    
+             <fieldset class="date"> 
                     <legend> Depart </legend> 
                     <label for="month_start">Month</label> 
                     <select id="month_start" 
@@ -175,7 +175,9 @@
                         <option>2</option>
                         <option>3</option>
                         <option>4</option></select>
-                        or more <input type="name" 
-                </fielset>
+                        or more <input type="name">
+                </select> </fieldset>
+                <input type="submit" name="RESERVE YOUR TICKET" class="submit">
+                <div class="img"></div>
                 </body>
 </html>
