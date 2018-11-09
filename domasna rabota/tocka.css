@@ -126,22 +126,62 @@ ul {
     height:20%
 }
 
-.grid-container2 { height: 100%; width: 100%; margin: 0; }
-
-.grid-container2 * { 
- position: relative;
+.div7 {
+    background-color: silver;
+    width: 2000px;
+    height: 150PX;
 }
-
-.grid-container2 *:after { 
- content:attr(class);
- position: absolute;
- top: 0;
- left: 0;
+.denes {
+    color: red;
+    font-size: 32pt;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 100px
 }
+.treba{
+    color: red;
+    font-size: 14pt;
+    font-weight: bold;
+    margin-left: 90px;
+    margin-top: -45px;
+}
+.div8{
+    background-color: silver;
+    width: 350px;
+    height: 100px;
+    margin-left: 20%;
+    margin-top: -112px
+}
+.medicinska {
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 16pt
+    
+}
+.div9 {
+    background-color: silver;
+    width: 350px;
+    height: 100px;
+    margin-left:40%;
+    margin-top: -112px;
 
-.grid-container2 {
-  display: grid;
-  grid-template-columns: 60% 55% 55% 100%;
-  grid-template-rows: 1fr;
-  grid-template-areas: ". . . .";
+}
+.komisijata {
+    font-weight: bold;
+    margin-top: 12px;
+    font-size: 16pt
+
+}
+.div10 {
+    background-color: silver;
+    width: 350px;
+    height: 100px;
+    margin-left:60%;
+    margin-top: -112px;
+
+}
+.mijalkov {
+    font-weight: bold;
+    margin-top: 12px;
+    font-size: 16pt
 }
