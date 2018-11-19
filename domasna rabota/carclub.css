@@ -1,0 +1,258 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: sans-serif;
+}
+
+.site-header {
+    width: 950px;
+    height: 0px;
+    background-color: #b50000;
+    margin: 0px 180px;
+    padding: 0px;
+    padding-top: 37px;
+    margin-left:360px
+
+}
+
+.header-top {
+    height: 100px;
+    width: 100%;
+    background-color: #222;
+    margin: 0 auto;
+    padding-bottom: 50px;    
+    position: relative;
+    float: left;
+    padding: 10px 0px;
+}
+
+.header-top img {
+    margin: 0px 20px;
+}
+
+.main-navigation {
+    display: inline-block;  
+    text-transform: uppercase;
+    width: 100%; 
+    position: relative;
+    background: #b50000;
+    background: linear-gradient(#b50000, #7e0000);
+    padding-bottom: 0px;   
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    text-align: center;     
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left; 
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 14px 10px;
+    padding-right; 10px;
+    text-decoration: none;
+    border: 1px solid rgb(90, 90, 90);
+    text-align: center;
+    line-height: 15px;
+    float: left;
+    
+}
+
+li a:hover {
+    background-color: #7e0000;
+}
+
+.menu {
+    width: 100%;
+    max-width: 1100px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+#full-screen-background-image {
+    z-index: -999;
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.main-slider {
+    width: 500px;
+    height: 600px;
+    margin: 300px 200px;
+    
+}
+
+    .main-slider img {
+        width: 100%;
+    }
+
+    .main-slider .slider-title {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: block;
+        background-color: #b5371b;
+        box-sizing: border-box;
+        padding: 10px;
+        color: #fff;
+        font-size: 24px;
+        text-transform: uppercase;
+        
+    }
+
+.content-container {    
+    width: 1000px;
+    height: 100%;
+    background-color: white;
+    margin: 0 auto;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+ .slider-title {
+     margin-top: 12%;
+     margin-left: 25%
+ }
+ .main_container {
+    background-color: white;
+    width: 100%;
+    height: 1600px;
+    margin-top: -5px;
+ }
+ .banner1 {
+     margin-top: -90px;
+     margin-left: 300px
+ }
+ .banner2 {
+     padding: 30px;
+ }
+ .porsche {
+    margin-left: 0px;
+    padding: 30px;
+
+ }
+ .najnovi {
+    background-color: red;
+    width: 60%;
+    height: 2px;
+    margin-top: 30px;
+    margin-left: 65px
+}
+.najnovi1 {
+    background-color: red;
+    width: 20%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 30px
+}
+.najnovi2 {
+    font-weight: bold;
+    color: white;
+    margin-top: -28px;
+    margin-left: 54px
+}
+.avtobiografija {
+    color: white;
+    margin-top: -170px;
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: left;
+    width: 600px;
+    margin-left: 50px;
+}
+.main_container2 {
+    background-color: white;
+    width: 30%;
+    height: 1000px;
+    margin-top: -506px;
+    margin-left: 665px
+
+}
+.reklama3 {
+    margin-top: 15px
+
+}
+.sto {
+    background-color: red;
+    width: 60%;
+    height: 2px;
+    margin-top: -365px;
+    margin-left: 65px
+}
+.sto1 {
+    background-color: red;
+    width: 20%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 30px
+}
+.jaguar {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.jaguar1 {
+    width: 310px;
+    margin-left: 30px;
+    font-weight: bold;
+    margin-top: 10px
+}
+.jaguar2 {
+    width: 310px;
+    margin-left: 30px;
+    margin-top: 10px
+}
+.vreme {
+    width: 310px;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 8pt
+}
+.saat {
+    margin-top: -14px;
+    margin-left: 32px
+}
+.noviteti {
+    color: red;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 8pt;
+    font-weight: bold
+}
+.hr {
+    margin-top: 10px;
+    opacity: 0.5;
+}
+.lambo {
+    margin-top: -382px;
+    margin-left: 320px
+}
+.Koncepti {
+    color: red;
+    margin-left: 322px;
+    margin-top: 10px;
+    font-size: 8pt;
+    font-weight: bold;
+    
+    
+}
