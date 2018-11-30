@@ -7,7 +7,7 @@
 .main-container {
     width: 1090px;
     height: 345px;
-    background-color: #e3eaef;
+    background-color: #ffff;
     border-radius: 12px;
     display: flex;
     position: relative;
@@ -38,6 +38,8 @@
 
     .stars  {
         margin-top: -15px;
+        width: 18px;
+        height: 18px;
     
     }
 
