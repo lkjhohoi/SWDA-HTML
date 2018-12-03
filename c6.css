@@ -86,7 +86,7 @@ padding-right: 12px
 }
 .stepen1 {
     color:#a3d39c;
-    margin-left: 300px;
+    margin-left: 302px;
     margin-top: -18px
 }
 .krugce {
@@ -94,7 +94,7 @@ padding-right: 12px
     width: 5px;
     border-radius: 360px;
     border: 1px solid #a3d39c;
-    margin-left: 320px;
+    margin-left: 321px;
     margin-top: -20px;
 }
 .vreme2 {
@@ -146,4 +146,44 @@ padding-right: 12px
     color: #6dcff6;
     margin-left: 133px;
     margin-top: -18px;
+}
+
+.stepen2 {
+    color:#a3d39c;
+    margin-left: 275px;
+    margin-top: -18px
+}
+.stepen3 {
+    color:#a3d39c;
+    margin-left: 275px;
+    margin-top: -18px
+}
+.stepen4 {
+    color:#a3d39c;
+    margin-left: 275px;
+    margin-top: -18px
+}
+.krugce2 {
+    height: 5px;
+    width: 5px;
+    border-radius: 360px;
+    border: 1px solid #a3d39c;
+    margin-left: 294px;
+    margin-top: -20px;
+}
+.krugce3 {
+    height: 5px;
+    width: 5px;
+    border-radius: 360px;
+    border: 1px solid #a3d39c;
+    margin-left: 294px;
+    margin-top: -20px;
+}
+.krugce4 {
+    height: 5px;
+    width: 5px;
+    border-radius: 360px;
+    border: 1px solid #a3d39c;
+    margin-left: 294px;
+    margin-top: -20px;
 }
