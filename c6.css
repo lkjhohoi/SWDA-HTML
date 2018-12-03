@@ -64,3 +64,86 @@ body {
 padding-right: 12px
 }
 
+.vreme1 {
+    width: 321px;
+    height: 10px;
+}
+.vreme1 img {
+    margin-left: 29px;
+    margin-top: 23px;
+}
+
+.tuesday {
+    color: white;
+    margin-left: 70px;
+    margin-top: -25px;
+
+}
+.may {
+    color: #6dcff6;
+    margin-left: 160px;
+    margin-top: -18px;
+}
+.stepen1 {
+    color:#a3d39c;
+    margin-left: 300px;
+    margin-top: -18px
+}
+.krugce {
+    height: 5px;
+    width: 5px;
+    border-radius: 360px;
+    border: 1px solid #a3d39c;
+    margin-left: 320px;
+    margin-top: -20px;
+}
+.vreme2 {
+    width: 321px;
+    height: 10px;
+    margin-top: 50px;
+    margin-left: 29px
+}
+.vreme3 {
+    width: 321px;
+    height: 10px;
+    margin-top: 30px;
+    margin-left: 29px
+
+}
+.vreme4 {
+    width: 321px;
+    height: 10px;
+    margin-top: 30px;
+    margin-left: 29px
+}
+.wednesday {
+    color: white;
+    margin-left: 43px;
+    margin-top: -25px;
+}
+.thursday {
+    color: white;
+    margin-left: 43px;
+    margin-top: -25px;
+}
+.tuesday2 {
+    color: white;
+    margin-left: 43px;
+    margin-top: -25px;
+
+}
+.may2 {
+    color: #6dcff6;
+    margin-left: 160px;
+    margin-top: -18px;
+}
+.may3 {
+    color: #6dcff6;
+    margin-left: 145px;
+    margin-top: -18px;
+}
+.may4 {
+    color: #6dcff6;
+    margin-left: 133px;
+    margin-top: -18px;
+}
